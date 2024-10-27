@@ -6,12 +6,13 @@ This repository contains the code and methodology developed for the **PRC Data C
 For more details, please visit the [PRC Data Challenge website](https://ansperformance.eu/study/data-challenge/).
 
 ## Prerequisites
-- Python 3.x
+- Python 3.10
 - Required Python libraries:
   - `numpy`
   - `pandas`
   - `scikit-learn`
   - `xgboost`
+  - `traffic`
   - Additional libraries as required in each script
 
 ## Installation
