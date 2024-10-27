@@ -1,4 +1,3 @@
-Here’s an updated `README.md` reflecting the project’s goal for submission to the PRC Data Challenge:
 
 ```markdown
 # PRC Data Challenge Submission
