@@ -25,7 +25,7 @@ For more details, please visit the [PRC Data Challenge website](https://ansperfo
 
 3. Install the necessary dependencies:
 
-   pip install -r requirements.txt
+   conda install --file packagelist.txt
 
 
 ## Data Processing Steps
