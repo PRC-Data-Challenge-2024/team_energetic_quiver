@@ -1,6 +1,5 @@
-
 ```markdown
-# PRC Data Challenge Submission
+## PRC Data Challenge Submission
 
 This repository contains the code and methodology developed for the **PRC Data Challenge**. The challenge invites participants to create machine learning models for estimating Actual TakeOff Weight (ATOW) using extensive flight and trajectory data. By improving ATOW estimations, this project aims to support environmentally responsible decision-making in aviation
 
