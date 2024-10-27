@@ -58,7 +58,7 @@ Historical data is analyzed to define a standard tow baseline, which serves as a
 An XGBoost model is trained using the flight information and standard tow data to predict tow behavior accurately.
 
 ## Results
-The results is our predicted tow values for final_submission_set. Detailed results and model performance metrics can be found in the `results/` directory.
+The results is our predicted tow values for final_submission_set (my_submission.csv).
 
 ## License
 This project is licensed under the terms of the [GNU General Public License v3.0](./LICENSE).
