@@ -16,17 +16,17 @@ For more details, please visit the [PRC Data Challenge website](https://ansperfo
 
 ## Installation
 1. Clone this repository:
-   ```bash
+
    git clone https://github.com/yanyuwan95/PRC-data-challenge.git
-   ```
+
 2. Navigate into the project directory:
-   ```bash
+
    cd PRC-data-challenge
-   ```
+
 3. Install the necessary dependencies:
-   ```bash
+
    pip install -r requirements.txt
-   ```
+
 
 ## Data Processing Steps
 To replicate the analysis, run each Python script in sequence as described below. Ensure each step completes successfully before proceeding to the next.
