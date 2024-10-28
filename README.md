@@ -48,12 +48,8 @@ Abnormal flights, such as those with unexpected trajectory shapes, are identifie
 **File:** `Step 4.py`  
 Missing or inconsistent flight data is updated based on an average strategy, ensuring continuity and accuracy within the dataset.
 
-### Step 5: Identify Standard Tow from Historical Data
+### Step 5: Predict Tow Using XGBoost
 **File:** `Step 5.py`  
-Historical data is analyzed to define a standard tow baseline, which serves as a reference for predicting future tow behavior.
-
-### Step 6: Predict Tow Using XGBoost
-**File:** `Step 6.py`  
 An XGBoost model is trained using the flight information and standard tow data to predict tow behavior accurately.
 
 ## Results
