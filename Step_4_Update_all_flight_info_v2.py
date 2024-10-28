@@ -251,7 +251,11 @@ if __name__ == '__main__':
     df_file_challenge = pd.read_csv(file2_path)
 
 
+    # df_file_challenge = df_file_challenge[df_file_challenge['flight_id']==248817104]
+
+
     df_file_submission = pd.read_csv(file4_path)
+
 
     # Check if generated airport distance file
     # Load identified distance between airports
@@ -265,12 +269,15 @@ if __name__ == '__main__':
     # Load extracted flight information
     df_flight_info = pd.read_csv(file1_path)
     df_flight_info = df_flight_info.dropna(axis=0, how='all')
+    df_flight_info = df_flight_info.drop_duplicates(subset=['flight_id'])
 
     # Add information to challenge and final submission set
     print('starting merge')
     merged_challenge = update_flight_info(df_file_challenge, df_flight_info)
     merged_challenge_all = pd.merge(merged_challenge, df_pair_dist, on=['ades', 'adep'], how='left')
     merged_challenge_all.to_csv('../challenge_set_update.csv', index=False)
+
+    print(sum(merged_challenge_all['tow'] - df_file_challenge['tow']))
 
 
 
