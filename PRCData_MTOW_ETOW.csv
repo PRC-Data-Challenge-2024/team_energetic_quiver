@@ -1,0 +1,31 @@
+﻿Aircraft,Manufacturer,Model_FAA,No of operations,MTOW_lb,MALW_lb,MTOW_kg,MALW_kg,OEW_kg,The source for OEW
+A320,AIRBUS,Airbus A320,102807,171961,145505,78000,66000,37230,https://www.flugzeuginfo.net/acdata_php/acdata_a320_en.php
+A20N,AIRBUS,Airbus A320 Neo,48875,174165,148591,79000,67400,44300,https://en.wikipedia.org/wiki/Airbus_A320neo_family
+B738,BOEING,Boeing 737-800,48404,174200,146275,79016,66349,41720,https://www.boeing.com/content/dam/boeing/boeingdotcom/company/about_bca/startup/pdf/historical/737NG_passenger.pdf
+A321,AIRBUS,Airbus A321,37699,200621,171520,91000,77800,47500,https://www.flugzeuginfo.net/acdata_php/acdata_a321_en.php
+E195,EMBRAER,Embraer 195,31940,115280,100972,52290,45800,28667,https://en.wikipedia.org/wiki/Embraer_E-Jet_family
+A21N,AIRBUS,Airbus A321 Neo,29825,209439,174606,95000,79200,50100,https://en.wikipedia.org/wiki/Airbus_A320neo_family
+CRJ9,CANADAIR,canadair CRJ-900,29568,80500,73500,36514,33339,21430,https://www.airlines-inform.com/commercial-aircraft/bombardier-crj-900.html
+A319,AIRBUS,Airbus A319,22596,168653,134482,76500,61000,40800,https://en.wikipedia.org/wiki/Airbus_A319
+A333,AIRBUS,Airbus A330-300,21872,533519,412264,242000,187000,121870,"https://www.airliners.net/aircraft-data/airbus-a330-300/25#:~:text=A330%2D300%20%2D%20Operating%20empty%20121%2C870,212%2C000kg%20(467%2C380lb)."
+B38M,BOEING,Boeing 737 MAX 8,15760,181200,152800,82191,69309,43091,https://www.boeing.com/content/dam/boeing/boeingdotcom/commercial/airports/acaps/737MAX_RevD.pdf
+BCS3,AIRBUS-BOMBARDIER,Airbus A220-300,15393,156307,133600,70900,60600,37081,https://www.virtairlines.com/db/Airbus%20A220-300
+B77W,BOEING,Boeing 777-300ER,11773,775000,554000,351534,251290,167800,"https://www.dimensions.com/element/boeing-777-300er#:~:text=Boeing%20777%2D300ERs%20have%20an,accommodate%20between%20340%2D396%20passengers.&text=Description-,The%20Boeing%20777%2D300ER%20stands%20as%20an%20extended%20range%20variant,distinguish%20it%20from%20earlier%20models."
+B772,BOEING,Boeing 777-200,10670,656000,470000,297556,213188,139025,"https://www.airliners.net/aircraft-data/boeing-777-200/106#:~:text=777%2D200%20%2D%20Empty%20139%2C025kg,247%2C210kg%20(535%2C000lb)."
+AT76,ATR,ATR 72-600/212A,8869,50265,49273,22800,22350,13450,https://www.atr-aircraft.com/wp-content/uploads/2020/07/Factsheets_-_ATR_72-600.pdf
+B788,BOEING,Boeing 787-8 BBJ/Dreamliner,7673,502500,380000,227930,172365,120000,https://www.globalair.com/aircraft-for-sale/specifications?specid=1699
+B789,BOEING,Boeing 787-9 Dreamliner,7410,560000,425000,254012,192777,128850,https://world-airports.fandom.com/wiki/Boeing_787_Dreamliner
+BCS1,AIRBUS-BOMBARDIER,Airbus A220-100,6086,139100,119490,63095,54200,35221,https://aircraft.airbus.com/sites/g/files/jlcbta126/files/2023-11/A220-ACP-Issue001-00-19Oct2023.pdf
+B737,BOEING,Boeing 737-700,4681,154500,145600,70080,66043,38410,https://www.boeing.com/content/dam/boeing/boeingdotcom/company/about_bca/startup/pdf/historical/737NG_passenger.pdf
+A332,AIRBUS,Airbus A330-200,2882,533519,401241,242000,182000,120150,"https://www.airliners.net/aircraft-data/airbus-a330-200/26#:~:text=A330%2D200%20%2D%20Operating%20empty%20120%2C150,(507%2C050%2D513%2C670lb)."
+E190,EMBRAER,Embraer 190,2719,110892,94799,50300,43000,27753,https://www.embraercommercialaviation.com/wp-content/uploads/2017/02/Embraer_spec_190_web.pdf
+B739,BOEING,Boeing 737-900,2315,187700,71400,85139,32386,43890,https://www.boeing.com/content/dam/boeing/boeingdotcom/company/about_bca/startup/pdf/historical/737NG_passenger.pdf
+A359,AIRBUS,Airbus 350-900,2263,617295,456357,280000,207000,108400,https://thaitechnics.com/aircraft/a350.html
+B763,BOEING,Boeing 767-300,1535,412000,320000,186880,145149,79560,"https://www.airliners.net/aircraft-data/boeing-767-300/104#:~:text=767%2D300%20%2D%20Empty%20with%20PW,159%2C210kg%20(351%2C000lb)."
+B39M,BOEING,Boeing 737 MAX 9,698,194700,163900,88314,74344,43091,https://www.boeing.com/content/dam/boeing/boeingdotcom/commercial/airports/acaps/737MAX_RevD.pdf
+A343,AIRBUS,Airbus A340-300,641,609578,423288,276500,192000,130181,https://www.aircraft-commerce.com/wp-content/uploads/aircraft-commerce-docs/Aircraft%20guides/A340-200-300/ISSUE%2052-A340-300%20SPECS.pdf
+B752,BOEING,Boeing 757-200,9,255500,198000,115893,89811,59160,https://www.boeing.com/content/dam/boeing/boeingdotcom/company/about_bca/startup/pdf/historical/757_passenger.pdf
+B773,BOEING,Boeing 777-300,3,660000,524000,299371,237682,158840,https://www.boeing.com/content/dam/boeing/boeingdotcom/company/about_bca/startup/pdf/historical/777_passenger.pdf
+E290,EMBRAER,Embraer 190-E2,3,124340,108136,56400,49050,33000,https://en.wikipedia.org/wiki/Embraer_E-Jet_E2_family
+A310,AIRBUS,Airbus A310,2,317465,273372,144000,123999,81205,"https://www.airliners.net/aircraft-data/airbus-a310/20#:~:text=A310%2D300%20with%20CF6%2D80C2A8s,15.80m%20(51ft%2010in)."
+C56X,CESSNA,Cessna Excel/XLS,1,20200,18700,9163,8482,5806,https://en.wikipedia.org/wiki/Cessna_Citation_Excel
